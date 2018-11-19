@@ -1,0 +1,10 @@
+#
+#Mon Nov 19 14:40:00 IST 2018
+linkedResources=
+managedNatures=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+subprojectPaths=org.xtext.example.dsl;org.xtext.example.dsl.ide
+derivedResources=.gradle;build;org.xtext.example.dsl/build;org.xtext.example.dsl.ide/build
+buildScriptPath=build.gradle
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildDir=build
